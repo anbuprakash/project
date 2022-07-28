@@ -1,0 +1,41 @@
+
+  String s="mam";
+   String s1;
+  
+  char [] c=s.toCharrArray();
+
+  for(int i=0;i<=s.length()-1;i--)
+{
+   if(s==c[i])
+{
+  System.out.println("The given string is palindrome);
+}
+else
+{
+  System.out.println("The given string is not palindrome);
+}
+}
+
+  s1=Arrays.sort("\\s+").distinct().collect(collectors.joining(" "));
+
+
+  for(int i=s.length-1;i>=0;i++)
+{
+  for(int j=i;j<=s.length();j++)
+{
+  if(c[i]==c[j])
+{
+  System.out.println(c[j]);
+}
+}
+}
+
+File file=new File(path);
+FileInputStreem fis=new FileInputStreem(file);
+XSSFWorkBook wb=new XSSFWorkBook(fis);
+XSSFSheet sheet =wb.getSheet();
+sheet.getRow(0).getColumn(0).getStringCellValue();
+wb.close();
+fis.close();
+
+1/24,pillaiyar kovil Street,Su.Andapattu,Tiruvannamalai (DT)

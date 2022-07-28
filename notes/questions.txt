@@ -1,0 +1,389 @@
+1. Intro day to day activities
+2. how you work on current sprint? entirely manual or automation or both
+3. cucumber advantages disadvantages
+4. reporting? individual report for manual and automation?
+5. idea about test plan?
+6. test approach?
+7. cross browser testing? 
+8. any idea for optimizing the test execuion time?
+9. Scenario: how would you download a file from link and store in it different location(location has to be change dynamically)
+10. diff bw end to end testing and system testing
+11. what are the limitations of selenium
+12. what are scenarios you tend to automate?
+13. any exp in parallel testing and api?
+
+
+1.self intro
+2.about framework
+3.What you used for reports
+4.diff b/w throw and throws
+5.diff b/w collection nd collections
+6.where you used hashmap in your project
+7.scenario and scenario outline
+8.Background
+9.Example
+10.parallel testing
+11.Have you used selenium grid
+12.Did you performed parallel testing in testng
+13.String s= "I love India" how to reverse the words as "India love I".explain the logic
+14.How you divide 25 by 5 without using division operator
+15.how you run your code in jenkins
+16.Is you faced conflict in your project
+17. How can we resolve conflict
+18.What are the exceptions you faced
+19.How can you avoid exceptions
+20.Why hashmap better
+21.constructor
+22.Data provider and its return type
+23.Purpose of Action class
+
+1.Self intro
+2.How you rate yourself in java
+3.which version of java you are using 
+4.diff b/w for loop and for each loop
+5.diff b/w collection and array
+6.how you rate yourself in selenium
+7.how you perform drop down
+8.how you rate yourself  in testng
+9.How you run a test case multiple times
+10.Annotations in testng
+11.How you fetch data's from excel
+12.API testing
+13.Joins in sql
+14.How you run your testcases and sending reports to management 
+15.String s1= "ABC"; String s2="DFABC";
+how you confirm whether the string s2 contains string s1.Explain the logic
+
+1.OOPs concepts
+2.Mutliple inheritance
+3.Diff b/w interface and abstract class
+4.Explain string and its methods
+5.Variables in Java
+6.Diff b/w array and arraylist
+7.Diff b/w list and set
+8.selenium architecture
+9.testng architecture
+10.cucumber architecture
+11.Methods in select class
+12.Explain about waits
+13.explain about exception
+14.What are the exceptions you have faced
+15.how to perform scroll down nd syntax for that
+16.return type of getWindowHandle and Handles
+17.Diff b/w findElement and findElements
+18.Explain about Action class
+19.Explain about alerts
+20.Diff b/w quit and close
+21.Annotations on testNG
+22.How to rerun the failed testcases
+23.Explain about LinkedHashSet
+24.Diff b/w jdk 1.5 and 1.7 
+25.Explain about try catch and finally block
+
+
+1. Intro
+2. First non repeated character in a string and same by using collections
+3. diff bw length and length()
+4. consider if you have bad network what kind of wait you use? and why?
+5. find broken link in the site(handle both positive and negative), and print all link title
+6. consider if you having autocomplete in search box, you have to enter a text and have to select 8th element in the auto suggested list below, you are performing click operation, instead of clicking that element, the button in the parent window receives that click, in that scenario what you will do, how will you handle it
+7. disable particular test in testng
+
+1. Intro
+2. This and super keyword
+3. Final finalize and Finally
+4. Occurrence of character in a string
+5. Abstract and interface
+6. Diff bw == and equals
+7. Diff bw string and stringbuffer
+8. POM
+9. Screenshot
+10. Cucumber framework major components
+11. How you run multiple feature file
+12. Multiple browser based popups
+13. findelement and findelements
+14. broken link
+15. / and //
+16. for reporting what you use?
+17. waits you used?
+18. Takescreenshot
+19. try and catch code output
+20. inheritance pgm output asked
+21. type of locators used in selenium
+22. git pull and git fetch
+
+1. Tell me abt yourself
+2. Project
+3. Roles and res
+4. Tools used
+5. Jira
+6. Where vl u maintain testcase
+7. Exception how vl you handle
+8. Wait concept explain
+9. Collection in project
+10. List, set, map diff
+11. Api knowledge
+12. Framework brief
+13. GitHub work flow
+14. Jenkins
+15. Performance testing
+16. Ur Key strengths in automation
+17. Bow can you verify automation script is 100% perfect
+18. Hard and soft assert
+19. Wat kind of testing you do? Explain
+20. Wat abt UI testing?
+
+Intro
+Framework 
+Oops concept in your project 
+Diff between static nd final
+Finally 
+String string Buffer string buildr diff
+Array ascending order
+Wat r the collection concept used in your project 
+Diff between list nd set
+Waits in selenium 
+Difference bt implicitly wait and explicitly wait
+Diff bt thread.sleep nd implicitly wait 
+Maven 
+Jenkins 
+Scenario and Scenario outline 
+Explicitly wait method
+
+Tell me abt urself
+Roles and resp.
+Project
+Program to write duplicate elements
+Extend report syntax
+Dropdown scenarios based
+Final, finally, finalize
+Garbage collection
+Abstract class vs interface
+List and set diff
+Hashmap vs hashtable
+Encapsulation
+Scenarios vs scenario outline
+Api
+Framework Design
+
+Intro
+Roles and responsibilities 
+Where yu use Hash map in your project 
+Diff between find element nd find elements 
+How to get la color of a element 
+Collection concept used in your project 
+How will yu handle pop-up
+
+1.self intro
+2.day to day activity
+3.oops concept
+4.write program for encapsulation project
+5.what you discussed in daily scrum call
+6.how long it will be
+7.if a bug is not fixed in previous sprint what will you do
+8.difference between double equal and equal
+9.how to find failed test cases in testng
+10.itest listener code
+11.checked and unchecked exception
+12.is sqlexception is checked or unchecked exception
+13.how to find broken links
+14.how to navigate to different tabs
+15.what is the parent interface of webddriver
+16.scrum ceremonies
+17.hooks in cucumber
+18.how to pass text in textbox
+19.Types of xpath
+20.diff bw relative and absolute xpath
+
+
+1. Intro
+2. Day to day activities
+3. how many parameters can selenium commands have at minimum
+4. What are the methods do we have to hit the page?
+5. Do you have a experience in creation  bug reports
+6. RTM
+7. Test plan meeting/ what are the details we have at end of it?
+8. Screenshot
+9. Why you rate yourself 7 ? why not 10?
+10. advantages of selenium
+11. how will work with hyper texts?
+
+1.diff b/w relative & absolute X path
+2.diff b/w getwindowhanle & getwindowhandles
+3.what is interface
+4.work experience in manual
+5.oops concepts
+6.groups in testng
+7.priority in testng
+8.scenario & scenario outline
+9.background keyWord in cucumber
+10.what is BDD
+
+1. tools and tech you used
+2. diff bw git and github
+3. Have you designed framework by yourself
+4. Exception handling how it works (try and catch, try without catch, how try works)
+5. API testing
+6. collections
+7. Regarding Iterator 
+8. Hashmap iteration code
+9. what is iterator? how it works
+10. How webdriver driver= new chromedriver() works
+11. git merge and rebase?
+12. try with resources
+13. who handles the exception?
+14. Iterator itr= new Chromedriver() can we write it how it works?
+15. Who has the code ? for iterator
+16. Diff bw interface and abstraction
+17. What is the new release in java and what you are using in your project?
+
+self intro
+roles and responsibilites
+framework which you worked
+tools you have used
+extend report snippet
+dependencies added on pom.xml
+maven architecture
+Types of locators
+types of xpath 
+diff b/w implicit and explicit wait
+how you print all the links on webpage
+how to perform scroll down
+how to perform dropdown options
+screenshot code of selenium 4
+how to switch over to particular window
+diff b/w findElement and findElements
+return type of findElement and findElements
+syntax for findElement and Elements
+git commands
+command for creating branch in git
+command for pushing code into repository
+what you will do while conflict in code
+annotations of testng
+how to priortise testcases
+if n number of test cases means how will you run on prioirty basis
+scenario and scenario outline
+primenumber program
+String contains "ABC12DE56" both number and character, seperate both and show two separate op
+diff b/w list set and map
+structure of hashmap
+diff b/w interface and abstract
+final,finally and finalize
+collection hierachy
+
+[11:27, 22/09/2021] +91 87780 67744: Wipro
+1. Intro and day to day activities (Roles and responsibilities)
+2. Framework explaination
+3. TestNG advantages
+4. Exceptions encountered in selenium and how will you handled it
+5. Waht do you do with Testng.xml
+6. Maven
+7. CI jenkins
+8. Inheritance? used in project? what key word used?
+9. Any exposure in API testing
+10. Asked about Parallel testing
+11. what you are using agile and waterfall
+12. For testdata what you used?
+13. Swaping num without third variable 
+14. Exception handling in java?
+[15:39, 22/09/2021] +91 90030 75287: Photon
+1. Xpath using html code
+2. Pyramid pattern program
+3. Imp amd expl. Wait
+4. List, set, map difference
+5. Window handling
+6. Frame handling
+7. Dynamic webtable
+8. How to run multiple runner class file in testng xml
+9. Static method and variable
+10. Finally keyword
+[20:31, 22/09/2021] +91 87780 67744: ValueLabs
+1. Intro
+2. Agile ceremonies
+3. OOPS in java
+4. Diff bw findelement and findelements
+5. Diff types of options to access dropdown
+6. how will you ensure the country dropdown is listed in alphabetical order or not
+7. How will you ensure the top rated movie list available in top of the netflix or prime video is displayed correctly or not (he expects me to tell about API)
+8. diff bw verify and assert
+9. Web based popups
+10. Second Largest number in array
+
+KGiSL
+1. Intro
+2. Waits in selenium
+3. Failed test case screenshot method in cucumber
+4. How will you implement Listeners 
+5. Webdriver driver= new ChromeDriver() vs FireFoxdriver driver= new Firefoxdriver();
+6. Window handling
+7. Access Modifiers in java
+8. Protected vs default
+9. can we access priva…
+[20:46, 22/09/2021] +91 87780 67744: E and Y
+1. intro 
+2. Frequency of words in string
+3. Framework
+4. Encapsulation in project
+5. Diff bw string and stringbuffer
+6. == and .equals() methods
+7. Local variable and instance variable
+8. when instance variable get destroyed
+9. Interface abstraction
+10. Chromedriver driver= new Chromerdriver() is allowed in selenium?
+11. diff bw arraylist and linkedlist set and linked list
+12. Exception handled in selenium
+13. NullpointerException when arises
+14. how you run test in maven?
+15. how will you run particular test cases in cucumber
+16. Git conflicts
+17. how can we acheive datadriven framework in cucumber
+18. asked get xpath in google search
+19. when we get nosuchelement 
+20. Waits in selenium
+21. explicit wait code
+22. alerts
+23. windowhandling
+24. driver.close and quit
+25. Scroll down in selenium
+26. Screenshot
+[11:25, 23/09/2021] +91 87780 67744: synechron technologies
+1. Intro and day to day activities
+2. try and catch
+3. screenshot
+4. java pgm for swapping number in array by grouping two two numbers
+5. access modifiers
+7. static methods
+[11:30, 23/09/2021] +91 87780 67744: 8. how will you run the specific testcases ?
+[11:37, 23/09/2021] +91 96296 50799: self intro
+roles and responsibilites
+framework which you worked
+tools you have used
+extend report snippet
+dependencies added on pom.xml
+maven architecture
+Types of locators
+types of xpath 
+diff b/w implicit and explicit wait
+how you print all the links on webpage
+how to perform scroll down
+how to perform dropdown options
+screenshot code of selenium 4
+how to switch over to particular window
+diff b/w findElement and findElements
+return type of findElement and findElements
+syntax for findElement and Elements
+git commands
+command for creating branch in git
+command for pushing code into repository
+what you will do while conflict in code
+annotations of testng
+how to priortise testcases
+if n number of test cases means how will you run on prioirty basis
+scenario and scenario outline
+primenumber program
+String contains "ABC12DE56" both number and character, seperate both and show two separate op
+diff b/w list set and map
+structure of hashmap
+diff b/w interface and abstract
+final,finally and finalize
+collection hierachy

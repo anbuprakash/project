@@ -1,0 +1,165 @@
+//li[@class='active']
+
+
+System.out.println(dropDown.getText());
+		System.out.println("1."+vendorSelfRegister.getText());
+		System.out.println("2."+a_vendor.getText());
+		System.out.println("3."+manageVendor.getText());
+		System.out.println("4."+deletevendor.getText());
+		System.out.println("5."+topvendor.getText());
+		System.out.println("6."+addvendor.getText());
+
+
+
+@FindBy(xpath="//span[contains(text(),'VENDOR SELF REGISTRATION')]")
+	WebElement vendorSelfRegister;
+
+	@FindBy(xpath="//span[contains(text(),'Manage VENDOR')]")
+	WebElement manageVendor;
+
+	@FindBy(xpath="//span[contains(text(),'Deleted VENDORS')]")
+	WebElement deletevendor;
+
+	@FindBy(xpath="//span[contains(text(),'Top VENDORS')]")
+	WebElement topvendor;
+
+	@FindBy(xpath="//span[contains(text(),'Add Vendor')]")
+	WebElement addvendor;
+
+
+
+
+
+//	public void approveVendor()
+//	{
+//		a_vendor.click();
+//	}
+
+
+
+
+
+
+//pre[@style='word-wrap: break-word; white-space: pre-wrap;']    vsucess xpth
+
+
+//a[@href='https://www.tradeviv.com/admin/vendors/304/show']  details
+
+
+//a[@href='https://www.tradeviv.com/admin/vendor/edit/304']   edit
+
+
+//a[@href='https://www.tradeviv.com/admin/vendor/companyedit/304']  cedit
+
+
+//a[@data-href='https://www.tradeviv.com/admin/vendors/delete/304']   delete
+
+
+
+//table[@id='geniustable']//button   search la underreview click pandrathu
+
+
+//input[@class='form-control form-control-sm']     search box
+
+
+
+
+
+
+	public void underReview()
+	{
+
+		underReview.click();
+		System.out.println(details.getText());//div[@style='display: block;']//a[4]
+		System.out.println(edit.getText());
+		System.out.println(companyEdit.getText());
+		System.out.println(delete.getText());
+
+	}
+
+	public void companyEdit()
+	{
+		companyEdit.click();
+		for(int i=1;i<=21;i++)
+		{
+			String c_Edit=driver.findElement(By.xpath("//form[@id='geniusfor']//div["+i+"]//div[1]//div//h4")).getText();
+			System.out.println(c_Edit);
+		}
+	}
+	public void status()
+	{
+		status.click();
+	}
+	public void approve()
+	{
+		approve.click();
+	}
+	public void reject()
+	{
+		reject.click();
+	}
+
+
+
+
+
+
+
+File file=new File(".//TestData//approve vendor.xlsx");
+				FileInputStream fis=new FileInputStream(file);
+				XSSFWorkbook wb = new XSSFWorkbook(fis);
+				XSSFSheet sheet = wb.getSheetAt(0);
+
+//	System.out.println("\n"+s);
+				Row row = sheet.createRow(i);
+				Cell cell = row.createCell(j);
+				cell.setCellValue(s);
+//	sheet.createRow(i);	
+	//	sheet.getRow(i).getCell(j).setCellValue(s);
+		fis.close();
+		FileOutputStream fos=new FileOutputStream(file);
+		wb.write(fos);
+		fos.close();
+		wb.close();
+
+
+
+String z=driver.findElement(By.xpath("//form[@id='geniusfor']")).getText();   companydetails
+		System.out.println(z);
+
+
+public void editVendor() throws Exception  //vendor edit function
+	{
+		for(int i=1;i<=5;i++)
+		{
+			vendors();
+			dropDown();
+			manageVendor();
+			show();
+			head();
+			m_Body();
+			//		next();
+			//		previous();
+			FileInputStream fis = new FileInputStream(".//TestData//approve vendor.xlsx");
+
+			XSSFWorkbook workbook = new XSSFWorkbook(fis);
+			XSSFSheet sheet = workbook.getSheetAt(2);
+			String mail=sheet.getRow(i).getCell(2).getStringCellValue();
+			search.sendKeys(mail);
+			fis.close();
+			workbook.close();
+			//	search();
+			action();
+			actionList();
+			edit();
+			editOption();
+			shopName();
+			submit();
+			update();
+		}
+
+
+
+
+https://accelerated.atlassian.net/secure/RapidBoard.jspa?projectKey=T20&rapidView=1   jirra
+

@@ -1,0 +1,37 @@
+public class Define
+{
+  WebDriver driver;
+ 
+  public void Define()
+{
+  
+  System.setproperty("webdriver.chrome.driver","   .exe");
+   driver=new ChromeDriver();
+  String userName="prakash";
+  String passWord="prakash";
+
+}
+ public void login()   //div[@id='nav-flyout-ya-signin']//span
+{
+  driver.get("https://www.amazon.in/");
+ WebElement element= driver.findElement(By.xpath("//div[@id='nav-flyout-ya-signin']//span"));
+
+  element.click();
+
+  WebElement userName=driver.findElement(By.id("ap_email"));
+  userName.sendKeys("prakash");
+
+  WebElement continueButton=driver.findElement(By.id("continue"));
+   continueButton.click();
+
+  WebElement password=driver.findElement(By.id("ap_password"));
+  password.sendKeys("prakash");
+
+  WebElement signIn=driver.findElement(By.id("signInSubmit"));
+  signIn.click();
+
+
+}
+  
+
+}

@@ -1,0 +1,21 @@
+rerun testcases
+
+https://www.softwaretestingmaterial.com/run-failed-test-cases-using-testng/
+
+
+check colour
+
+https://engineering.naukri.com/2016/11/verify-colour-elements-using-selenium-webdriver/
+
+
+oops
+
+https://www.softwaretestingmaterial.com/oops-concept-in-automation-framework/
+
+selenium IQ
+
+https://www.softwaretestingmaterial.com/selenium-interview-questions/
+
+jenkins
+
+https://www.tutorialspoint.com/jenkins/jenkins_setup_build_jobs.htm
