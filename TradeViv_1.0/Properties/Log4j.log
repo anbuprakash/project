@@ -1,0 +1,829 @@
+2021-08-09 16:52:30 INFO  TradevivBase:45 - Launch the ChromeBrowser
+2021-08-09 16:52:32 INFO  TradevivBase:47 - Launch the url
+2021-08-09 16:55:51 INFO  TradevivBase:45 - Launch the ChromeBrowser
+2021-08-09 16:55:54 INFO  TradevivBase:47 - Launch the url
+2021-08-09 17:06:13 INFO  TradevivBase:45 - Launch the ChromeBrowser
+2021-08-09 17:06:15 INFO  TradevivBase:47 - Launch the url
+2021-08-09 17:08:03 INFO  TradevivBase:45 - Launch the ChromeBrowser
+2021-08-09 17:08:05 INFO  TradevivBase:47 - Launch the url
+2021-08-09 17:11:17 INFO  TradevivBase:45 - Launch the ChromeBrowser
+2021-08-09 17:11:19 INFO  TradevivBase:47 - Launch the url
+2021-08-09 17:14:46 INFO  TradevivBase:45 - Launch the ChromeBrowser
+2021-08-09 17:14:48 INFO  TradevivBase:47 - Launch the url
+2021-08-09 17:28:50 INFO  TradevivBase:45 - Launch the ChromeBrowser
+2021-08-09 17:28:52 INFO  TradevivBase:47 - Launch the url
+2021-08-09 17:31:54 INFO  TradevivBase:45 - Launch the ChromeBrowser
+2021-08-09 17:31:55 INFO  TradevivBase:47 - Launch the url
+2021-08-09 18:16:44 INFO  TradevivBase:45 - Launch the ChromeBrowser
+2021-08-09 18:16:46 INFO  TradevivBase:47 - Launch the url
+2021-08-10 07:54:05 INFO  TradevivBase:45 - Launch the ChromeBrowser
+2021-08-10 07:54:08 INFO  TradevivBase:47 - Launch the url
+2021-08-10 07:54:17 INFO  Tradeviv_UserStory_07:72 - Click vendors
+2021-08-10 07:54:23 INFO  Tradeviv_UserStory_07:85 - Click approve vendor
+2021-08-10 07:54:27 INFO  Tradeviv_UserStory_07:125 - Search company Email
+2021-08-10 07:54:28 INFO  Tradeviv_UserStory_07:140 - Click underReview
+2021-08-10 07:54:28 INFO  Tradeviv_UserStory_07:153 - Click CompanyEdit
+2021-08-10 07:54:32 INFO  Tradeviv_UserStory_07:171 - Select approved
+2021-08-10 07:54:32 INFO  Tradeviv_UserStory_07:181 - Click Submit button
+2021-08-10 07:54:33 INFO  Testcase:90 - Click vendors
+2021-08-10 07:54:38 INFO  Testcase:104 - Click manage vendor
+2021-08-10 07:55:10 INFO  Testcase:156 - Search company Email
+2021-08-10 07:55:11 INFO  Testcase:171 - Click action button
+2021-08-10 07:55:14 INFO  EditVendor:91 - Click vendors
+2021-08-10 07:55:15 INFO  EditVendor:105 - Click manage vendor
+2021-08-10 07:55:34 INFO  EditVendor:157 - Search company Email
+2021-08-10 07:55:34 INFO  EditVendor:172 - Click action button
+2021-08-10 09:42:09 INFO  TradevivBase:45 - Launch the ChromeBrowser
+2021-08-10 09:42:11 INFO  TradevivBase:47 - Launch the url
+2021-08-10 09:42:17 INFO  Testcase:90 - Click vendors
+2021-08-10 09:42:23 INFO  Testcase:104 - Click manage vendor
+2021-08-10 09:42:39 INFO  Testcase:145 - Click next button
+2021-08-10 09:42:50 INFO  Testcase:156 - Search company Email
+2021-08-10 09:42:50 INFO  Testcase:171 - Click action button
+2021-08-10 09:46:09 INFO  TradevivBase:45 - Launch the ChromeBrowser
+2021-08-10 09:46:11 INFO  TradevivBase:47 - Launch the url
+2021-08-10 09:46:18 INFO  Tradeviv_UserStory_07:73 - Click vendors
+2021-08-10 09:46:23 INFO  Tradeviv_UserStory_07:86 - Click approve vendor
+2021-08-10 09:46:27 INFO  Tradeviv_UserStory_07:126 - Search company Email
+2021-08-10 09:46:27 INFO  Tradeviv_UserStory_07:141 - Click underReview
+2021-08-10 09:46:27 INFO  Tradeviv_UserStory_07:154 - Click CompanyEdit
+2021-08-10 09:46:31 INFO  Tradeviv_UserStory_07:172 - Select approved
+2021-08-10 09:46:31 INFO  Tradeviv_UserStory_07:182 - Click Submit button
+2021-08-10 09:46:32 INFO  Testcase:90 - Click vendors
+2021-08-10 09:46:38 INFO  Testcase:104 - Click manage vendor
+2021-08-10 09:46:54 INFO  Testcase:156 - Search company Email
+2021-08-10 09:46:54 INFO  Testcase:171 - Click action button
+2021-08-10 09:46:56 INFO  EditVendor:91 - Click vendors
+2021-08-10 09:46:57 INFO  EditVendor:105 - Click manage vendor
+2021-08-10 09:47:13 INFO  EditVendor:157 - Search company Email
+2021-08-10 09:47:13 INFO  EditVendor:172 - Click action button
+2021-08-10 10:01:41 INFO  TradevivBase:45 - Launch the ChromeBrowser
+2021-08-10 10:01:43 INFO  TradevivBase:47 - Launch the url
+2021-08-10 10:01:51 INFO  Tradeviv_UserStory_07:73 - Click vendors
+2021-08-10 10:01:59 INFO  Tradeviv_UserStory_07:86 - Click approve vendor
+2021-08-10 10:02:03 INFO  Tradeviv_UserStory_07:126 - Search company Email
+2021-08-10 10:02:03 INFO  Tradeviv_UserStory_07:141 - Click underReview
+2021-08-10 10:02:03 INFO  Tradeviv_UserStory_07:154 - Click CompanyEdit
+2021-08-10 10:02:07 INFO  Tradeviv_UserStory_07:172 - Select approved
+2021-08-10 10:02:07 INFO  Tradeviv_UserStory_07:182 - Click Submit button
+2021-08-10 10:02:07 INFO  Testcase:93 - Click vendors
+2021-08-10 10:02:08 INFO  Testcase:107 - Click manage vendor
+2021-08-10 10:02:24 INFO  Testcase:174 - Click action button
+2021-08-10 10:02:25 INFO  EditVendor:91 - Click vendors
+2021-08-10 10:02:26 INFO  EditVendor:105 - Click manage vendor
+2021-08-10 10:02:42 INFO  EditVendor:157 - Search company Email
+2021-08-10 10:02:42 INFO  EditVendor:172 - Click action button
+2021-08-10 10:10:50 INFO  TradevivBase:45 - Launch the ChromeBrowser
+2021-08-10 10:10:52 INFO  TradevivBase:47 - Launch the url
+2021-08-10 10:10:59 INFO  Tradeviv_UserStory_07:73 - Click vendors
+2021-08-10 10:11:14 INFO  Tradeviv_UserStory_07:86 - Click approve vendor
+2021-08-10 10:11:18 INFO  Tradeviv_UserStory_07:126 - Search company Email
+2021-08-10 10:11:18 INFO  Tradeviv_UserStory_07:141 - Click underReview
+2021-08-10 10:11:18 INFO  Tradeviv_UserStory_07:154 - Click CompanyEdit
+2021-08-10 10:11:25 INFO  Tradeviv_UserStory_07:172 - Select approved
+2021-08-10 10:11:25 INFO  Tradeviv_UserStory_07:182 - Click Submit button
+2021-08-10 10:11:25 INFO  Testcase:93 - Click vendors
+2021-08-10 10:11:25 INFO  Testcase:107 - Click manage vendor
+2021-08-10 10:11:47 INFO  Testcase:174 - Click action button
+2021-08-10 10:11:48 INFO  EditVendor:91 - Click vendors
+2021-08-10 10:11:48 INFO  EditVendor:105 - Click manage vendor
+2021-08-10 10:12:06 INFO  EditVendor:157 - Search company Email
+2021-08-10 10:12:07 INFO  EditVendor:172 - Click action button
+2021-08-10 10:12:58 INFO  TradevivBase:45 - Launch the ChromeBrowser
+2021-08-10 10:13:00 INFO  TradevivBase:47 - Launch the url
+2021-08-10 10:13:06 INFO  Tradeviv_UserStory_07:73 - Click vendors
+2021-08-10 10:13:11 INFO  Tradeviv_UserStory_07:86 - Click approve vendor
+2021-08-10 10:13:14 INFO  Tradeviv_UserStory_07:126 - Search company Email
+2021-08-10 10:13:15 INFO  Tradeviv_UserStory_07:141 - Click underReview
+2021-08-10 10:13:15 INFO  Tradeviv_UserStory_07:154 - Click CompanyEdit
+2021-08-10 10:13:21 INFO  Tradeviv_UserStory_07:172 - Select approved
+2021-08-10 10:13:21 INFO  Tradeviv_UserStory_07:182 - Click Submit button
+2021-08-10 10:13:21 INFO  Testcase:93 - Click vendors
+2021-08-10 10:13:21 INFO  Testcase:107 - Click manage vendor
+2021-08-10 10:13:38 INFO  Testcase:174 - Click action button
+2021-08-10 10:13:39 INFO  EditVendor:91 - Click vendors
+2021-08-10 10:13:40 INFO  EditVendor:105 - Click manage vendor
+2021-08-10 10:13:57 INFO  EditVendor:157 - Search company Email
+2021-08-10 10:13:57 INFO  EditVendor:172 - Click action button
+2021-08-10 10:14:01 INFO  EditVendor:91 - Click vendors
+2021-08-10 10:14:02 INFO  EditVendor:105 - Click manage vendor
+2021-08-10 10:14:19 INFO  EditVendor:157 - Search company Email
+2021-08-10 10:14:19 INFO  EditVendor:172 - Click action button
+2021-08-10 10:14:22 INFO  EditVendor:91 - Click vendors
+2021-08-10 10:14:24 INFO  EditVendor:105 - Click manage vendor
+2021-08-10 10:14:58 INFO  EditVendor:157 - Search company Email
+2021-08-10 10:14:58 INFO  EditVendor:172 - Click action button
+2021-08-10 10:15:02 INFO  EditVendor:91 - Click vendors
+2021-08-10 10:17:40 INFO  TradevivBase:45 - Launch the ChromeBrowser
+2021-08-10 10:17:42 INFO  TradevivBase:47 - Launch the url
+2021-08-10 10:18:44 INFO  TradevivBase:45 - Launch the ChromeBrowser
+2021-08-10 10:18:46 INFO  TradevivBase:47 - Launch the url
+2021-08-10 10:19:00 INFO  Tradeviv_UserStory_07:73 - Click vendors
+2021-08-10 10:19:07 INFO  Tradeviv_UserStory_07:86 - Click approve vendor
+2021-08-10 10:19:11 INFO  Tradeviv_UserStory_07:126 - Search company Email
+2021-08-10 10:19:11 INFO  Tradeviv_UserStory_07:141 - Click underReview
+2021-08-10 10:19:12 INFO  Tradeviv_UserStory_07:154 - Click CompanyEdit
+2021-08-10 10:19:15 INFO  Tradeviv_UserStory_07:172 - Select approved
+2021-08-10 10:19:15 INFO  Tradeviv_UserStory_07:182 - Click Submit button
+2021-08-10 10:19:15 INFO  Testcase:93 - Click vendors
+2021-08-10 10:19:15 INFO  Testcase:107 - Click manage vendor
+2021-08-10 10:19:32 INFO  Testcase:174 - Click action button
+2021-08-10 10:19:33 INFO  EditVendor:91 - Click vendors
+2021-08-10 10:19:34 INFO  EditVendor:105 - Click manage vendor
+2021-08-10 10:19:50 INFO  EditVendor:157 - Search company Email
+2021-08-10 10:19:51 INFO  EditVendor:172 - Click action button
+2021-08-10 11:22:43 INFO  TradevivBase:45 - Launch the ChromeBrowser
+2021-08-10 11:22:45 INFO  TradevivBase:47 - Launch the url
+2021-08-10 12:40:40 INFO  TradevivBase:45 - Launch the ChromeBrowser
+2021-08-10 12:40:42 INFO  TradevivBase:47 - Launch the url
+2021-08-10 12:42:44 INFO  TradevivBase:45 - Launch the ChromeBrowser
+2021-08-10 12:42:46 INFO  TradevivBase:47 - Launch the url
+2021-08-10 12:44:53 INFO  TradevivBase:45 - Launch the ChromeBrowser
+2021-08-10 12:44:55 INFO  TradevivBase:47 - Launch the url
+2021-08-10 12:46:32 INFO  TradevivBase:45 - Launch the ChromeBrowser
+2021-08-10 12:46:34 INFO  TradevivBase:47 - Launch the url
+2021-08-10 12:49:33 INFO  TradevivBase:45 - Launch the ChromeBrowser
+2021-08-10 12:49:35 INFO  TradevivBase:47 - Launch the url
+2021-08-10 12:52:20 INFO  TradevivBase:45 - Launch the ChromeBrowser
+2021-08-10 12:52:22 INFO  TradevivBase:47 - Launch the url
+2021-08-10 12:54:47 INFO  TradevivBase:45 - Launch the ChromeBrowser
+2021-08-10 12:54:49 INFO  TradevivBase:47 - Launch the url
+2021-08-10 12:56:03 INFO  TradevivBase:45 - Launch the ChromeBrowser
+2021-08-10 12:56:04 INFO  TradevivBase:47 - Launch the url
+2021-08-10 13:01:01 INFO  TradevivBase:45 - Launch the ChromeBrowser
+2021-08-10 13:01:03 INFO  TradevivBase:47 - Launch the url
+2021-08-10 13:02:26 INFO  TradevivBase:45 - Launch the ChromeBrowser
+2021-08-10 13:02:29 INFO  TradevivBase:47 - Launch the url
+2021-08-10 13:05:33 INFO  TradevivBase:45 - Launch the ChromeBrowser
+2021-08-10 13:05:35 INFO  TradevivBase:47 - Launch the url
+2021-08-10 13:20:42 INFO  TradevivBase:45 - Launch the ChromeBrowser
+2021-08-10 13:20:44 INFO  TradevivBase:47 - Launch the url
+2021-08-10 13:20:53 INFO  EditVendor:91 - Click vendors
+2021-08-10 13:20:59 INFO  EditVendor:105 - Click manage vendor
+2021-08-10 13:21:17 INFO  EditVendor:157 - Search company Email
+2021-08-10 13:21:18 INFO  EditVendor:173 - Click action button
+2021-08-10 13:21:28 INFO  EditVendor:91 - Click vendors
+2021-08-10 13:27:52 INFO  TradevivBase:45 - Launch the ChromeBrowser
+2021-08-10 13:27:54 INFO  TradevivBase:47 - Launch the url
+2021-08-10 13:28:02 INFO  EditVendor:91 - Click vendors
+2021-08-10 13:28:08 INFO  EditVendor:105 - Click manage vendor
+2021-08-10 13:28:27 INFO  EditVendor:173 - Click action button
+2021-08-10 13:28:30 INFO  EditVendor:91 - Click vendors
+2021-08-10 13:32:08 INFO  TradevivBase:45 - Launch the ChromeBrowser
+2021-08-10 13:32:10 INFO  TradevivBase:47 - Launch the url
+2021-08-10 13:32:22 INFO  EditVendor:91 - Click vendors
+2021-08-10 13:32:42 INFO  EditVendor:107 - Click manage vendor
+2021-08-10 13:33:03 INFO  EditVendor:175 - Click action button
+2021-08-10 13:33:06 INFO  EditVendor:91 - Click vendors
+2021-08-10 13:38:41 INFO  TradevivBase:45 - Launch the ChromeBrowser
+2021-08-10 13:38:43 INFO  TradevivBase:47 - Launch the url
+2021-08-10 13:38:59 INFO  EditVendor:93 - Click vendors
+2021-08-10 13:39:27 INFO  EditVendor:108 - Click manage vendor
+2021-08-10 13:39:49 INFO  EditVendor:175 - Click action button
+2021-08-10 13:39:55 INFO  EditVendor:93 - Click vendors
+2021-08-10 13:39:56 INFO  EditVendor:108 - Click manage vendor
+2021-08-10 13:40:27 INFO  EditVendor:175 - Click action button
+2021-08-10 13:40:29 INFO  EditVendor:93 - Click vendors
+2021-08-10 13:45:03 INFO  TradevivBase:45 - Launch the ChromeBrowser
+2021-08-10 13:45:05 INFO  TradevivBase:47 - Launch the url
+2021-08-10 13:45:12 INFO  EditVendor:93 - Click vendors
+2021-08-10 13:45:17 INFO  EditVendor:107 - Click manage vendor
+2021-08-10 13:45:34 INFO  EditVendor:158 - Search company Email
+2021-08-10 13:45:34 INFO  EditVendor:174 - Click action button
+2021-08-10 13:45:40 INFO  EditVendor:93 - Click vendors
+2021-08-10 13:45:41 INFO  EditVendor:107 - Click manage vendor
+2021-08-10 13:45:56 INFO  EditVendor:158 - Search company Email
+2021-08-10 13:45:57 INFO  EditVendor:174 - Click action button
+2021-08-10 13:46:01 INFO  EditVendor:93 - Click vendors
+2021-08-10 13:46:01 INFO  EditVendor:107 - Click manage vendor
+2021-08-10 13:46:17 INFO  EditVendor:158 - Search company Email
+2021-08-10 13:46:17 INFO  EditVendor:174 - Click action button
+2021-08-10 13:46:21 INFO  EditVendor:93 - Click vendors
+2021-08-10 13:46:21 INFO  EditVendor:107 - Click manage vendor
+2021-08-10 13:52:33 INFO  TradevivBase:45 - Launch the ChromeBrowser
+2021-08-10 13:52:36 INFO  TradevivBase:47 - Launch the url
+2021-08-10 13:52:44 INFO  Tradeviv_UserStory_07:73 - Click vendors
+2021-08-10 13:52:51 INFO  Tradeviv_UserStory_07:86 - Click approve vendor
+2021-08-10 13:52:54 INFO  Tradeviv_UserStory_07:126 - Search company Email
+2021-08-10 13:52:54 INFO  Tradeviv_UserStory_07:141 - Click underReview
+2021-08-10 13:52:54 INFO  Tradeviv_UserStory_07:154 - Click CompanyEdit
+2021-08-10 13:52:57 INFO  Tradeviv_UserStory_07:172 - Select approved
+2021-08-10 13:52:57 INFO  Tradeviv_UserStory_07:182 - Click Submit button
+2021-08-10 13:52:57 INFO  Testcase:93 - Click vendors
+2021-08-10 13:52:58 INFO  Testcase:107 - Click manage vendor
+2021-08-10 13:53:14 INFO  Testcase:148 - Click next button
+2021-08-10 13:53:24 INFO  Testcase:192 - Click action button
+2021-08-10 13:53:25 INFO  EditVendor:93 - Click vendors
+2021-08-10 13:53:26 INFO  EditVendor:107 - Click manage vendor
+2021-08-10 13:58:22 INFO  TradevivBase:45 - Launch the ChromeBrowser
+2021-08-10 13:58:24 INFO  TradevivBase:47 - Launch the url
+2021-08-10 13:58:30 INFO  Tradeviv_UserStory_07:73 - Click vendors
+2021-08-10 13:58:41 INFO  Tradeviv_UserStory_07:86 - Click approve vendor
+2021-08-10 13:58:45 INFO  Tradeviv_UserStory_07:126 - Search company Email
+2021-08-10 13:58:45 INFO  Tradeviv_UserStory_07:141 - Click underReview
+2021-08-10 13:58:46 INFO  Tradeviv_UserStory_07:154 - Click CompanyEdit
+2021-08-10 13:58:48 INFO  Tradeviv_UserStory_07:172 - Select approved
+2021-08-10 13:58:48 INFO  Tradeviv_UserStory_07:182 - Click Submit button
+2021-08-10 13:58:48 INFO  Testcase:93 - Click vendors
+2021-08-10 13:58:48 INFO  Testcase:107 - Click manage vendor
+2021-08-10 13:59:04 INFO  Testcase:148 - Click next button
+2021-08-10 13:59:15 INFO  Testcase:192 - Click action button
+2021-08-10 13:59:16 INFO  EditVendor:93 - Click vendors
+2021-08-10 13:59:16 INFO  EditVendor:107 - Click manage vendor
+2021-08-10 13:59:32 INFO  EditVendor:158 - Search company Email
+2021-08-10 13:59:32 INFO  EditVendor:174 - Click action button
+2021-08-10 14:03:11 INFO  TradevivBase:45 - Launch the ChromeBrowser
+2021-08-10 14:03:13 INFO  TradevivBase:47 - Launch the url
+2021-08-10 14:03:20 INFO  Testcase:93 - Click vendors
+2021-08-10 14:03:28 INFO  Testcase:107 - Click manage vendor
+2021-08-10 14:03:46 INFO  Testcase:148 - Click next button
+2021-08-10 14:05:57 INFO  TradevivBase:45 - Launch the ChromeBrowser
+2021-08-10 14:05:58 INFO  TradevivBase:47 - Launch the url
+2021-08-10 14:06:07 INFO  Testcase:93 - Click vendors
+2021-08-10 14:06:13 INFO  Testcase:107 - Click manage vendor
+2021-08-10 14:06:31 INFO  Testcase:152 - Click next button
+2021-08-10 14:06:42 INFO  Testcase:196 - Click action button
+2021-08-10 14:12:21 INFO  TradevivBase:45 - Launch the ChromeBrowser
+2021-08-10 14:12:23 INFO  TradevivBase:47 - Launch the url
+2021-08-10 14:12:30 INFO  Testcase:94 - Click vendors
+2021-08-10 14:12:36 INFO  Testcase:108 - Click manage vendor
+2021-08-10 14:12:53 INFO  Testcase:153 - Click next button
+2021-08-10 14:12:54 INFO  Testcase:159 - click previous button
+2021-08-10 14:12:54 INFO  Testcase:179 - Click action button
+2021-08-10 14:14:17 INFO  TradevivBase:45 - Launch the ChromeBrowser
+2021-08-10 14:14:19 INFO  TradevivBase:47 - Launch the url
+2021-08-10 14:14:26 INFO  Tradeviv_UserStory_07:73 - Click vendors
+2021-08-10 14:14:36 INFO  Tradeviv_UserStory_07:86 - Click approve vendor
+2021-08-10 14:14:39 INFO  Tradeviv_UserStory_07:126 - Search company Email
+2021-08-10 14:14:40 INFO  Tradeviv_UserStory_07:141 - Click underReview
+2021-08-10 14:14:40 INFO  Tradeviv_UserStory_07:154 - Click CompanyEdit
+2021-08-10 14:14:43 INFO  Tradeviv_UserStory_07:172 - Select approved
+2021-08-10 14:14:43 INFO  Tradeviv_UserStory_07:182 - Click Submit button
+2021-08-10 14:14:43 INFO  Testcase:94 - Click vendors
+2021-08-10 14:14:44 INFO  Testcase:108 - Click manage vendor
+2021-08-10 14:14:48 INFO  Testcase:179 - Click action button
+2021-08-10 14:14:49 INFO  EditVendor:93 - Click vendors
+2021-08-10 14:14:49 INFO  EditVendor:107 - Click manage vendor
+2021-08-10 14:15:05 INFO  EditVendor:158 - Search company Email
+2021-08-10 14:15:06 INFO  EditVendor:174 - Click action button
+2021-08-10 14:22:20 INFO  TradevivBase:45 - Launch the ChromeBrowser
+2021-08-10 14:22:22 INFO  TradevivBase:47 - Launch the url
+2021-08-10 14:23:01 INFO  Tradeviv_UserStory_07:73 - Click vendors
+2021-08-10 14:24:07 INFO  Tradeviv_UserStory_07:86 - Click approve vendor
+2021-08-10 14:24:12 INFO  Tradeviv_UserStory_07:126 - Search company Email
+2021-08-10 14:24:13 INFO  Tradeviv_UserStory_07:141 - Click underReview
+2021-08-10 14:24:13 INFO  Tradeviv_UserStory_07:154 - Click CompanyEdit
+2021-08-10 14:24:18 INFO  Tradeviv_UserStory_07:172 - Select approved
+2021-08-10 14:24:18 INFO  Tradeviv_UserStory_07:182 - Click Submit button
+2021-08-10 14:24:18 INFO  Testcase:94 - Click vendors
+2021-08-10 14:24:19 INFO  Testcase:108 - Click manage vendor
+2021-08-10 14:24:33 INFO  Testcase:179 - Click action button
+2021-08-10 14:24:34 INFO  EditVendor:93 - Click vendors
+2021-08-10 14:24:35 INFO  EditVendor:107 - Click manage vendor
+2021-08-10 14:25:04 INFO  EditVendor:158 - Search company Email
+2021-08-10 14:25:04 INFO  EditVendor:174 - Click action button
+2021-08-10 14:33:09 INFO  TradevivBase:45 - Launch the ChromeBrowser
+2021-08-10 14:33:11 INFO  TradevivBase:47 - Launch the url
+2021-08-10 14:33:20 INFO  Tradeviv_UserStory_07:73 - Click vendors
+2021-08-10 14:33:31 INFO  Tradeviv_UserStory_07:86 - Click approve vendor
+2021-08-10 14:33:35 INFO  Tradeviv_UserStory_07:126 - Search company Email
+2021-08-10 14:33:35 INFO  Tradeviv_UserStory_07:141 - Click underReview
+2021-08-10 14:33:36 INFO  Tradeviv_UserStory_07:154 - Click CompanyEdit
+2021-08-10 14:33:39 INFO  Tradeviv_UserStory_07:172 - Select approved
+2021-08-10 14:33:39 INFO  Tradeviv_UserStory_07:182 - Click Submit button
+2021-08-10 14:33:39 INFO  Testcase:94 - Click vendors
+2021-08-10 14:33:39 INFO  Testcase:108 - Click manage vendor
+2021-08-10 14:33:45 INFO  Testcase:179 - Click action button
+2021-08-10 14:33:46 INFO  EditVendor:93 - Click vendors
+2021-08-10 14:33:46 INFO  EditVendor:107 - Click manage vendor
+2021-08-10 14:34:03 INFO  EditVendor:158 - Search company Email
+2021-08-10 14:34:03 INFO  EditVendor:173 - Click action button
+2021-08-10 14:35:02 INFO  TradevivBase:45 - Launch the ChromeBrowser
+2021-08-10 14:35:04 INFO  TradevivBase:47 - Launch the url
+2021-08-10 14:35:14 INFO  EditVendor:93 - Click vendors
+2021-08-10 14:35:18 INFO  EditVendor:107 - Click manage vendor
+2021-08-10 14:35:37 INFO  EditVendor:158 - Search company Email
+2021-08-10 14:35:37 INFO  EditVendor:173 - Click action button
+2021-08-10 14:36:55 INFO  TradevivBase:45 - Launch the ChromeBrowser
+2021-08-10 14:36:57 INFO  TradevivBase:47 - Launch the url
+2021-08-10 14:37:06 INFO  EditVendor:93 - Click vendors
+2021-08-10 14:37:15 INFO  EditVendor:107 - Click manage vendor
+2021-08-10 14:37:20 INFO  EditVendor:158 - Search company Email
+2021-08-10 14:37:20 INFO  EditVendor:173 - Click action button
+2021-08-10 14:40:15 INFO  TradevivBase:45 - Launch the ChromeBrowser
+2021-08-10 14:40:17 INFO  TradevivBase:47 - Launch the url
+2021-08-10 14:40:46 INFO  EditVendor:93 - Click vendors
+2021-08-10 14:41:07 INFO  EditVendor:107 - Click manage vendor
+2021-08-10 14:41:12 INFO  EditVendor:158 - Search company Email
+2021-08-10 14:41:13 INFO  EditVendor:173 - Click action button
+2021-08-10 14:45:04 INFO  TradevivBase:45 - Launch the ChromeBrowser
+2021-08-10 14:45:06 INFO  TradevivBase:47 - Launch the url
+2021-08-10 14:45:17 INFO  EditVendor:93 - Click vendors
+2021-08-10 14:45:22 INFO  EditVendor:107 - Click manage vendor
+2021-08-10 14:45:26 INFO  EditVendor:158 - Search company Email
+2021-08-10 14:45:28 INFO  EditVendor:174 - Click action button
+2021-08-10 14:47:20 INFO  TradevivBase:45 - Launch the ChromeBrowser
+2021-08-10 14:47:21 INFO  TradevivBase:47 - Launch the url
+2021-08-10 14:47:29 INFO  EditVendor:93 - Click vendors
+2021-08-10 14:47:34 INFO  EditVendor:107 - Click manage vendor
+2021-08-10 14:47:39 INFO  EditVendor:158 - Search company Email
+2021-08-10 14:47:42 INFO  EditVendor:174 - Click action button
+2021-08-10 14:53:10 INFO  TradevivBase:45 - Launch the ChromeBrowser
+2021-08-10 14:53:12 INFO  TradevivBase:47 - Launch the url
+2021-08-10 14:53:20 INFO  EditVendor:93 - Click vendors
+2021-08-10 14:53:27 INFO  EditVendor:107 - Click manage vendor
+2021-08-10 14:53:35 INFO  EditVendor:174 - Click action button
+2021-08-10 14:53:38 INFO  EditVendor:93 - Click vendors
+2021-08-10 14:53:38 INFO  EditVendor:107 - Click manage vendor
+2021-08-10 14:53:46 INFO  EditVendor:174 - Click action button
+2021-08-10 14:53:48 INFO  EditVendor:93 - Click vendors
+2021-08-10 14:53:49 INFO  EditVendor:107 - Click manage vendor
+2021-08-10 14:53:56 INFO  EditVendor:174 - Click action button
+2021-08-10 14:53:58 INFO  EditVendor:93 - Click vendors
+2021-08-10 14:53:59 INFO  EditVendor:107 - Click manage vendor
+2021-08-10 14:54:05 INFO  EditVendor:174 - Click action button
+2021-08-10 14:54:08 INFO  EditVendor:93 - Click vendors
+2021-08-10 14:54:09 INFO  EditVendor:107 - Click manage vendor
+2021-08-10 14:54:15 INFO  EditVendor:174 - Click action button
+2021-08-10 15:26:50 INFO  TradevivBase:45 - Launch the ChromeBrowser
+2021-08-10 15:26:51 INFO  TradevivBase:47 - Launch the url
+2021-08-10 15:26:59 INFO  EditVendor:93 - Click vendors
+2021-08-10 15:27:05 INFO  EditVendor:107 - Click manage vendor
+2021-08-10 15:27:15 INFO  EditVendor:174 - Click action button
+2021-08-10 15:27:19 INFO  EditVendor:93 - Click vendors
+2021-08-10 15:27:19 INFO  EditVendor:107 - Click manage vendor
+2021-08-10 15:27:29 INFO  EditVendor:174 - Click action button
+2021-08-10 15:27:31 INFO  EditVendor:93 - Click vendors
+2021-08-10 15:27:32 INFO  EditVendor:107 - Click manage vendor
+2021-08-10 15:27:40 INFO  EditVendor:174 - Click action button
+2021-08-10 15:27:43 INFO  EditVendor:93 - Click vendors
+2021-08-10 15:27:43 INFO  EditVendor:107 - Click manage vendor
+2021-08-10 15:27:52 INFO  EditVendor:174 - Click action button
+2021-08-10 15:27:55 INFO  EditVendor:93 - Click vendors
+2021-08-10 15:27:55 INFO  EditVendor:107 - Click manage vendor
+2021-08-10 15:28:04 INFO  EditVendor:174 - Click action button
+2021-08-10 15:31:31 INFO  TradevivBase:45 - Launch the ChromeBrowser
+2021-08-10 15:31:33 INFO  TradevivBase:47 - Launch the url
+2021-08-10 15:31:40 INFO  EditVendor:96 - Click vendors
+2021-08-10 15:31:51 INFO  EditVendor:110 - Click manage vendor
+2021-08-10 15:32:01 INFO  EditVendor:177 - Click action button
+2021-08-10 15:32:08 INFO  EditVendor:177 - Click action button
+2021-08-10 15:32:15 INFO  EditVendor:177 - Click action button
+2021-08-10 15:32:22 INFO  EditVendor:177 - Click action button
+2021-08-10 15:32:29 INFO  EditVendor:177 - Click action button
+2021-08-10 18:04:46 INFO  TradevivBase:45 - Launch the ChromeBrowser
+2021-08-10 18:04:48 INFO  TradevivBase:47 - Launch the url
+2021-08-10 18:04:54 INFO  Tradeviv_UserStory_07:73 - Click vendors
+2021-08-10 18:04:58 INFO  Tradeviv_UserStory_07:86 - Click approve vendor
+2021-08-10 18:05:02 INFO  Tradeviv_UserStory_07:126 - Search company Email
+2021-08-10 18:05:03 INFO  Tradeviv_UserStory_07:141 - Click underReview
+2021-08-10 18:05:04 INFO  Tradeviv_UserStory_07:154 - Click CompanyEdit
+2021-08-10 18:05:06 INFO  Tradeviv_UserStory_07:172 - Select approved
+2021-08-10 18:05:06 INFO  Tradeviv_UserStory_07:182 - Click Submit button
+2021-08-10 18:05:06 INFO  Testcase:94 - Click vendors
+2021-08-10 18:05:07 INFO  Testcase:108 - Click manage vendor
+2021-08-10 18:05:11 INFO  Testcase:179 - Click action button
+2021-08-10 18:05:12 INFO  EditVendor:100 - Click vendors
+2021-08-10 18:05:12 INFO  EditVendor:114 - Click manage vendor
+2021-08-10 18:05:21 INFO  EditVendor:186 - Click action button
+2021-08-10 18:05:28 INFO  EditVendor:186 - Click action button
+2021-08-10 18:05:34 INFO  EditVendor:186 - Click action button
+2021-08-10 18:05:41 INFO  EditVendor:186 - Click action button
+2021-08-10 18:05:47 INFO  EditVendor:186 - Click action button
+2021-08-10 18:10:39 INFO  TradevivBase:45 - Launch the ChromeBrowser
+2021-08-10 18:10:41 INFO  TradevivBase:47 - Launch the url
+2021-08-11 07:44:12 INFO  TradevivBase:45 - Launch the ChromeBrowser
+2021-08-11 07:44:14 INFO  TradevivBase:47 - Launch the url
+2021-08-11 07:44:21 INFO  Tradeviv_UserStory_07:74 - Click vendors
+2021-08-11 07:44:29 INFO  Tradeviv_UserStory_07:87 - Click approve vendor
+2021-08-11 07:44:33 INFO  Tradeviv_UserStory_07:127 - Search company Email
+2021-08-11 07:44:33 INFO  Tradeviv_UserStory_07:142 - Click underReview
+2021-08-11 07:44:33 INFO  Tradeviv_UserStory_07:155 - Click CompanyEdit
+2021-08-11 07:44:36 INFO  Tradeviv_UserStory_07:168 - Click status
+2021-08-11 07:44:36 INFO  Tradeviv_UserStory_07:173 - Select approved
+2021-08-11 07:44:36 INFO  Tradeviv_UserStory_07:183 - Click Submit button
+2021-08-11 07:49:03 INFO  TradevivBase:45 - Launch the ChromeBrowser
+2021-08-11 07:49:05 INFO  TradevivBase:47 - Launch the url
+2021-08-11 07:49:12 INFO  Tradeviv_UserStory_07:75 - Click vendors
+2021-08-11 07:49:19 INFO  Tradeviv_UserStory_07:88 - Click approve vendor
+2021-08-11 07:49:22 INFO  Tradeviv_UserStory_07:128 - Search company Email
+2021-08-11 07:49:22 INFO  Tradeviv_UserStory_07:143 - Click underReview
+2021-08-11 07:49:23 INFO  Tradeviv_UserStory_07:156 - Click CompanyEdit
+2021-08-11 07:49:25 INFO  Tradeviv_UserStory_07:169 - Click status
+2021-08-11 07:49:25 INFO  Tradeviv_UserStory_07:174 - Select approved
+2021-08-11 07:49:25 INFO  Tradeviv_UserStory_07:184 - Click Submit button
+2021-08-11 07:51:57 INFO  TradevivBase:45 - Launch the ChromeBrowser
+2021-08-11 07:51:59 INFO  TradevivBase:47 - Launch the url
+2021-08-11 07:52:07 INFO  Tradeviv_UserStory_07:75 - Click vendors
+2021-08-11 07:52:15 INFO  Tradeviv_UserStory_07:88 - Click approve vendor
+2021-08-11 07:52:19 INFO  Tradeviv_UserStory_07:128 - Search company Email
+2021-08-11 07:52:19 INFO  Tradeviv_UserStory_07:143 - Click underReview
+2021-08-11 07:52:19 INFO  Tradeviv_UserStory_07:156 - Click CompanyEdit
+2021-08-11 07:52:21 INFO  Tradeviv_UserStory_07:169 - Click status
+2021-08-11 07:52:21 INFO  Tradeviv_UserStory_07:179 - select reject
+2021-08-11 07:52:22 INFO  Tradeviv_UserStory_07:184 - Click Submit button
+2021-08-11 07:54:42 INFO  TradevivBase:45 - Launch the ChromeBrowser
+2021-08-11 07:54:44 INFO  TradevivBase:47 - Launch the url
+2021-08-11 07:54:51 INFO  Tradeviv_UserStory_07:75 - Click vendors
+2021-08-11 07:54:58 INFO  Tradeviv_UserStory_07:88 - Click approve vendor
+2021-08-11 07:55:02 INFO  Tradeviv_UserStory_07:128 - Search company Email
+2021-08-11 07:55:02 INFO  Tradeviv_UserStory_07:143 - Click underReview
+2021-08-11 07:55:02 INFO  Tradeviv_UserStory_07:156 - Click CompanyEdit
+2021-08-11 07:55:05 INFO  Tradeviv_UserStory_07:169 - Click status
+2021-08-11 07:55:05 INFO  Tradeviv_UserStory_07:179 - select reject
+2021-08-11 07:55:05 INFO  Tradeviv_UserStory_07:184 - Click Submit button
+2021-08-11 07:55:06 INFO  Testcase:94 - Click vendors
+2021-08-11 07:55:13 INFO  Testcase:108 - Click manage vendor
+2021-08-11 07:55:19 INFO  Testcase:179 - Click action button
+2021-08-11 07:55:20 INFO  EditVendor:100 - Click vendors
+2021-08-11 07:55:20 INFO  EditVendor:114 - Click manage vendor
+2021-08-11 07:55:29 INFO  EditVendor:186 - Click action button
+2021-08-11 07:55:36 INFO  EditVendor:186 - Click action button
+2021-08-11 07:57:26 INFO  TradevivBase:45 - Launch the ChromeBrowser
+2021-08-11 07:57:28 INFO  TradevivBase:47 - Launch the url
+2021-08-11 07:57:35 INFO  Tradeviv_UserStory_07:75 - Click vendors
+2021-08-11 07:57:42 INFO  Tradeviv_UserStory_07:88 - Click approve vendor
+2021-08-11 07:57:46 INFO  Tradeviv_UserStory_07:128 - Search company Email
+2021-08-11 07:57:46 INFO  Tradeviv_UserStory_07:143 - Click underReview
+2021-08-11 07:57:46 INFO  Tradeviv_UserStory_07:156 - Click CompanyEdit
+2021-08-11 07:57:48 INFO  Tradeviv_UserStory_07:169 - Click status
+2021-08-11 07:57:48 INFO  Tradeviv_UserStory_07:174 - Select approved
+2021-08-11 07:57:48 INFO  Tradeviv_UserStory_07:184 - Click Submit button
+2021-08-11 07:57:49 INFO  Testcase:94 - Click vendors
+2021-08-11 07:57:49 INFO  Testcase:108 - Click manage vendor
+2021-08-11 07:57:56 INFO  Testcase:179 - Click action button
+2021-08-11 07:57:57 INFO  EditVendor:100 - Click vendors
+2021-08-11 07:57:57 INFO  EditVendor:114 - Click manage vendor
+2021-08-11 07:58:51 INFO  TradevivBase:45 - Launch the ChromeBrowser
+2021-08-11 07:58:52 INFO  TradevivBase:47 - Launch the url
+2021-08-11 07:59:00 INFO  Tradeviv_UserStory_07:75 - Click vendors
+2021-08-11 07:59:09 INFO  Tradeviv_UserStory_07:88 - Click approve vendor
+2021-08-11 07:59:12 INFO  Tradeviv_UserStory_07:128 - Search company Email
+2021-08-11 07:59:12 INFO  Tradeviv_UserStory_07:143 - Click underReview
+2021-08-11 07:59:13 INFO  Tradeviv_UserStory_07:156 - Click CompanyEdit
+2021-08-11 07:59:16 INFO  Tradeviv_UserStory_07:169 - Click status
+2021-08-11 07:59:16 INFO  Tradeviv_UserStory_07:174 - Select approved
+2021-08-11 07:59:16 INFO  Tradeviv_UserStory_07:184 - Click Submit button
+2021-08-11 07:59:26 INFO  Testcase:94 - Click vendors
+2021-08-11 07:59:27 INFO  Testcase:108 - Click manage vendor
+2021-08-11 07:59:58 INFO  EditVendor:100 - Click vendors
+2021-08-11 08:01:42 INFO  TradevivBase:45 - Launch the ChromeBrowser
+2021-08-11 08:01:44 INFO  TradevivBase:47 - Launch the url
+2021-08-11 08:01:55 INFO  Tradeviv_UserStory_07:75 - Click vendors
+2021-08-11 08:02:01 INFO  Tradeviv_UserStory_07:88 - Click approve vendor
+2021-08-11 08:02:04 INFO  Tradeviv_UserStory_07:128 - Search company Email
+2021-08-11 08:02:05 INFO  Tradeviv_UserStory_07:143 - Click underReview
+2021-08-11 08:02:05 INFO  Tradeviv_UserStory_07:156 - Click CompanyEdit
+2021-08-11 08:02:08 INFO  Tradeviv_UserStory_07:169 - Click status
+2021-08-11 08:02:08 INFO  Tradeviv_UserStory_07:179 - select reject
+2021-08-11 08:02:08 INFO  Tradeviv_UserStory_07:184 - Click Submit button
+2021-08-11 08:02:08 INFO  Testcase:94 - Click vendors
+2021-08-11 08:02:08 INFO  Testcase:108 - Click manage vendor
+2021-08-11 08:02:12 INFO  Testcase:179 - Click action button
+2021-08-11 08:02:13 INFO  EditVendor:100 - Click vendors
+2021-08-11 08:02:13 INFO  EditVendor:114 - Click manage vendor
+2021-08-11 08:03:11 INFO  TradevivBase:45 - Launch the ChromeBrowser
+2021-08-11 08:03:13 INFO  TradevivBase:47 - Launch the url
+2021-08-11 08:03:21 INFO  Tradeviv_UserStory_07:75 - Click vendors
+2021-08-11 08:03:29 INFO  Tradeviv_UserStory_07:88 - Click approve vendor
+2021-08-11 08:03:32 INFO  Tradeviv_UserStory_07:128 - Search company Email
+2021-08-11 08:03:33 INFO  Tradeviv_UserStory_07:143 - Click underReview
+2021-08-11 08:03:33 INFO  Tradeviv_UserStory_07:156 - Click CompanyEdit
+2021-08-11 08:03:35 INFO  Tradeviv_UserStory_07:169 - Click status
+2021-08-11 08:03:35 INFO  Tradeviv_UserStory_07:179 - select reject
+2021-08-11 08:03:35 INFO  Tradeviv_UserStory_07:184 - Click Submit button
+2021-08-11 08:03:36 INFO  Testcase:94 - Click vendors
+2021-08-11 08:03:43 INFO  Testcase:108 - Click manage vendor
+2021-08-11 08:03:50 INFO  EditVendor:100 - Click vendors
+2021-08-11 08:05:53 INFO  TradevivBase:45 - Launch the ChromeBrowser
+2021-08-11 08:05:54 INFO  TradevivBase:47 - Launch the url
+2021-08-11 08:06:02 INFO  Tradeviv_UserStory_07:75 - Click vendors
+2021-08-11 08:06:10 INFO  Tradeviv_UserStory_07:88 - Click approve vendor
+2021-08-11 08:06:13 INFO  Tradeviv_UserStory_07:128 - Search company Email
+2021-08-11 08:06:13 INFO  Tradeviv_UserStory_07:143 - Click underReview
+2021-08-11 08:06:14 INFO  Tradeviv_UserStory_07:156 - Click CompanyEdit
+2021-08-11 08:06:16 INFO  Tradeviv_UserStory_07:169 - Click status
+2021-08-11 08:06:16 INFO  Tradeviv_UserStory_07:179 - select reject
+2021-08-11 08:06:16 INFO  Tradeviv_UserStory_07:184 - Click Submit button
+2021-08-11 08:06:17 INFO  Testcase:94 - Click vendors
+2021-08-11 08:06:21 INFO  EditVendor:100 - Click vendors
+2021-08-11 08:07:01 INFO  TradevivBase:45 - Launch the ChromeBrowser
+2021-08-11 08:07:03 INFO  TradevivBase:47 - Launch the url
+2021-08-11 08:07:11 INFO  Tradeviv_UserStory_07:75 - Click vendors
+2021-08-11 08:07:19 INFO  Tradeviv_UserStory_07:88 - Click approve vendor
+2021-08-11 08:07:22 INFO  Tradeviv_UserStory_07:128 - Search company Email
+2021-08-11 08:07:22 INFO  Tradeviv_UserStory_07:143 - Click underReview
+2021-08-11 08:07:23 INFO  Tradeviv_UserStory_07:156 - Click CompanyEdit
+2021-08-11 08:07:25 INFO  Tradeviv_UserStory_07:169 - Click status
+2021-08-11 08:07:25 INFO  Tradeviv_UserStory_07:174 - Select approved
+2021-08-11 08:07:25 INFO  Tradeviv_UserStory_07:184 - Click Submit button
+2021-08-11 08:07:26 INFO  Testcase:94 - Click vendors
+2021-08-11 08:07:26 INFO  Testcase:108 - Click manage vendor
+2021-08-11 08:07:32 INFO  EditVendor:100 - Click vendors
+2021-08-11 08:07:41 INFO  TradevivBase:45 - Launch the ChromeBrowser
+2021-08-11 08:07:44 INFO  TradevivBase:47 - Launch the url
+2021-08-11 08:07:51 INFO  Tradeviv_UserStory_07:75 - Click vendors
+2021-08-11 08:07:58 INFO  Tradeviv_UserStory_07:88 - Click approve vendor
+2021-08-11 08:08:02 INFO  Tradeviv_UserStory_07:128 - Search company Email
+2021-08-11 08:08:02 INFO  Tradeviv_UserStory_07:143 - Click underReview
+2021-08-11 08:08:02 INFO  Tradeviv_UserStory_07:156 - Click CompanyEdit
+2021-08-11 08:08:04 INFO  Tradeviv_UserStory_07:169 - Click status
+2021-08-11 08:08:04 INFO  Tradeviv_UserStory_07:174 - Select approved
+2021-08-11 08:08:04 INFO  Tradeviv_UserStory_07:184 - Click Submit button
+2021-08-11 08:08:14 INFO  Testcase:94 - Click vendors
+2021-08-11 08:08:15 INFO  Testcase:108 - Click manage vendor
+2021-08-11 08:08:20 INFO  EditVendor:100 - Click vendors
+2021-08-11 08:10:50 INFO  TradevivBase:45 - Launch the ChromeBrowser
+2021-08-11 08:10:52 INFO  TradevivBase:47 - Launch the url
+2021-08-11 08:10:59 INFO  Tradeviv_UserStory_07:75 - Click vendors
+2021-08-11 08:11:07 INFO  Tradeviv_UserStory_07:88 - Click approve vendor
+2021-08-11 08:11:10 INFO  Tradeviv_UserStory_07:128 - Search company Email
+2021-08-11 08:11:11 INFO  Tradeviv_UserStory_07:143 - Click underReview
+2021-08-11 08:11:11 INFO  Tradeviv_UserStory_07:156 - Click CompanyEdit
+2021-08-11 08:11:13 INFO  Tradeviv_UserStory_07:169 - Click status
+2021-08-11 08:11:13 INFO  Tradeviv_UserStory_07:179 - select reject
+2021-08-11 08:11:14 INFO  Tradeviv_UserStory_07:184 - Click Submit button
+2021-08-11 08:11:14 INFO  Testcase:94 - Click vendors
+2021-08-11 08:11:14 INFO  Testcase:108 - Click manage vendor
+2021-08-11 08:11:18 INFO  Testcase:179 - Click action button
+2021-08-11 08:11:19 INFO  EditVendor:100 - Click vendors
+2021-08-11 08:11:19 INFO  EditVendor:114 - Click manage vendor
+2021-08-11 08:12:45 INFO  TradevivBase:45 - Launch the ChromeBrowser
+2021-08-11 08:13:08 INFO  TradevivBase:45 - Launch the ChromeBrowser
+2021-08-11 08:13:10 INFO  TradevivBase:47 - Launch the url
+2021-08-11 08:13:17 INFO  Tradeviv_UserStory_07:75 - Click vendors
+2021-08-11 08:13:24 INFO  Tradeviv_UserStory_07:88 - Click approve vendor
+2021-08-11 08:13:28 INFO  Tradeviv_UserStory_07:128 - Search company Email
+2021-08-11 08:13:28 INFO  Tradeviv_UserStory_07:143 - Click underReview
+2021-08-11 08:13:28 INFO  Tradeviv_UserStory_07:156 - Click CompanyEdit
+2021-08-11 08:13:30 INFO  Tradeviv_UserStory_07:169 - Click status
+2021-08-11 08:13:31 INFO  Tradeviv_UserStory_07:179 - select reject
+2021-08-11 08:13:31 INFO  Tradeviv_UserStory_07:184 - Click Submit button
+2021-08-11 08:13:31 INFO  Testcase:94 - Click vendors
+2021-08-11 08:18:16 INFO  TradevivBase:45 - Launch the ChromeBrowser
+2021-08-11 08:18:18 INFO  TradevivBase:47 - Launch the url
+2021-08-11 08:18:25 INFO  Tradeviv_UserStory_07:75 - Click vendors
+2021-08-11 08:18:33 INFO  Tradeviv_UserStory_07:88 - Click approve vendor
+2021-08-11 08:18:37 INFO  Tradeviv_UserStory_07:128 - Search company Email
+2021-08-11 08:18:38 INFO  Tradeviv_UserStory_07:143 - Click underReview
+2021-08-11 08:18:38 INFO  Tradeviv_UserStory_07:156 - Click CompanyEdit
+2021-08-11 08:18:40 INFO  Tradeviv_UserStory_07:169 - Click status
+2021-08-11 08:18:40 INFO  Tradeviv_UserStory_07:179 - select reject
+2021-08-11 08:18:40 INFO  Tradeviv_UserStory_07:184 - Click Submit button
+2021-08-11 08:18:41 INFO  Testcase:94 - Click vendors
+2021-08-11 08:18:51 INFO  EditVendor:100 - Click vendors
+2021-08-11 08:19:31 INFO  TradevivBase:45 - Launch the ChromeBrowser
+2021-08-11 08:19:33 INFO  TradevivBase:47 - Launch the url
+2021-08-11 08:19:41 INFO  Tradeviv_UserStory_07:75 - Click vendors
+2021-08-11 08:19:48 INFO  Tradeviv_UserStory_07:88 - Click approve vendor
+2021-08-11 08:19:52 INFO  Tradeviv_UserStory_07:128 - Search company Email
+2021-08-11 08:19:52 INFO  Tradeviv_UserStory_07:143 - Click underReview
+2021-08-11 08:19:53 INFO  Tradeviv_UserStory_07:156 - Click CompanyEdit
+2021-08-11 08:19:56 INFO  Tradeviv_UserStory_07:169 - Click status
+2021-08-11 08:19:56 INFO  Tradeviv_UserStory_07:174 - Select approved
+2021-08-11 08:19:56 INFO  Tradeviv_UserStory_07:184 - Click Submit button
+2021-08-11 08:19:57 INFO  Testcase:94 - Click vendors
+2021-08-11 08:19:57 INFO  Testcase:108 - Click manage vendor
+2021-08-11 08:20:07 INFO  TradevivBase:45 - Launch the ChromeBrowser
+2021-08-11 08:20:09 INFO  TradevivBase:47 - Launch the url
+2021-08-11 08:20:17 INFO  Tradeviv_UserStory_07:75 - Click vendors
+2021-08-11 08:20:24 INFO  Tradeviv_UserStory_07:88 - Click approve vendor
+2021-08-11 08:20:28 INFO  Tradeviv_UserStory_07:128 - Search company Email
+2021-08-11 08:20:28 INFO  Tradeviv_UserStory_07:143 - Click underReview
+2021-08-11 08:20:29 INFO  Tradeviv_UserStory_07:156 - Click CompanyEdit
+2021-08-11 08:20:31 INFO  Tradeviv_UserStory_07:169 - Click status
+2021-08-11 08:20:31 INFO  Tradeviv_UserStory_07:174 - Select approved
+2021-08-11 08:20:31 INFO  Tradeviv_UserStory_07:184 - Click Submit button
+2021-08-11 08:20:41 INFO  Testcase:94 - Click vendors
+2021-08-11 08:20:42 INFO  Testcase:108 - Click manage vendor
+2021-08-11 08:20:46 INFO  Testcase:179 - Click action button
+2021-08-11 08:20:47 INFO  EditVendor:100 - Click vendors
+2021-08-11 08:20:47 INFO  EditVendor:114 - Click manage vendor
+2021-08-11 08:25:04 INFO  TradevivBase:45 - Launch the ChromeBrowser
+2021-08-11 08:25:06 INFO  TradevivBase:47 - Launch the url
+2021-08-11 08:25:14 INFO  Tradeviv_UserStory_07:75 - Click vendors
+2021-08-11 08:25:22 INFO  Tradeviv_UserStory_07:88 - Click approve vendor
+2021-08-11 08:25:26 INFO  Tradeviv_UserStory_07:128 - Search company Email
+2021-08-11 08:25:26 INFO  Tradeviv_UserStory_07:143 - Click underReview
+2021-08-11 08:25:26 INFO  Tradeviv_UserStory_07:156 - Click CompanyEdit
+2021-08-11 08:25:29 INFO  Tradeviv_UserStory_07:169 - Click status
+2021-08-11 08:25:29 INFO  Tradeviv_UserStory_07:174 - Select approved
+2021-08-11 08:25:29 INFO  Tradeviv_UserStory_07:184 - Click Submit button
+2021-08-11 08:25:30 INFO  Testcase:94 - Click vendors
+2021-08-11 08:25:30 INFO  Testcase:108 - Click manage vendor
+2021-08-11 08:25:34 INFO  Testcase:179 - Click action button
+2021-08-11 08:25:35 INFO  EditVendor:100 - Click vendors
+2021-08-11 08:25:35 INFO  EditVendor:114 - Click manage vendor
+2021-08-11 08:25:58 INFO  TradevivBase:45 - Launch the ChromeBrowser
+2021-08-11 08:26:00 INFO  TradevivBase:47 - Launch the url
+2021-08-11 08:26:06 INFO  Tradeviv_UserStory_07:75 - Click vendors
+2021-08-11 08:26:13 INFO  Tradeviv_UserStory_07:88 - Click approve vendor
+2021-08-11 08:26:17 INFO  Tradeviv_UserStory_07:128 - Search company Email
+2021-08-11 08:26:17 INFO  Tradeviv_UserStory_07:143 - Click underReview
+2021-08-11 08:26:17 INFO  Tradeviv_UserStory_07:156 - Click CompanyEdit
+2021-08-11 08:26:19 INFO  Tradeviv_UserStory_07:169 - Click status
+2021-08-11 08:26:19 INFO  Tradeviv_UserStory_07:174 - Select approved
+2021-08-11 08:26:19 INFO  Tradeviv_UserStory_07:184 - Click Submit button
+2021-08-11 08:26:30 INFO  Testcase:94 - Click vendors
+2021-08-11 08:26:30 INFO  Testcase:108 - Click manage vendor
+2021-08-11 08:26:34 INFO  Testcase:179 - Click action button
+2021-08-11 08:26:37 INFO  EditVendor:100 - Click vendors
+2021-08-11 08:27:12 INFO  TradevivBase:45 - Launch the ChromeBrowser
+2021-08-11 08:27:14 INFO  TradevivBase:47 - Launch the url
+2021-08-11 08:27:21 INFO  Tradeviv_UserStory_07:75 - Click vendors
+2021-08-11 08:27:29 INFO  Tradeviv_UserStory_07:88 - Click approve vendor
+2021-08-11 08:27:32 INFO  Tradeviv_UserStory_07:128 - Search company Email
+2021-08-11 08:27:33 INFO  Tradeviv_UserStory_07:143 - Click underReview
+2021-08-11 08:27:33 INFO  Tradeviv_UserStory_07:156 - Click CompanyEdit
+2021-08-11 08:27:35 INFO  Tradeviv_UserStory_07:169 - Click status
+2021-08-11 08:27:35 INFO  Tradeviv_UserStory_07:179 - select reject
+2021-08-11 08:27:35 INFO  Tradeviv_UserStory_07:184 - Click Submit button
+2021-08-11 08:27:35 INFO  Testcase:94 - Click vendors
+2021-08-11 08:27:35 INFO  Testcase:108 - Click manage vendor
+2021-08-11 08:27:39 INFO  Testcase:179 - Click action button
+2021-08-11 08:27:39 INFO  EditVendor:100 - Click vendors
+2021-08-11 08:28:33 INFO  TradevivBase:45 - Launch the ChromeBrowser
+2021-08-11 08:28:35 INFO  TradevivBase:47 - Launch the url
+2021-08-11 08:28:43 INFO  Tradeviv_UserStory_07:75 - Click vendors
+2021-08-11 08:28:51 INFO  Tradeviv_UserStory_07:88 - Click approve vendor
+2021-08-11 08:28:55 INFO  Tradeviv_UserStory_07:128 - Search company Email
+2021-08-11 08:28:55 INFO  Tradeviv_UserStory_07:143 - Click underReview
+2021-08-11 08:28:55 INFO  Tradeviv_UserStory_07:156 - Click CompanyEdit
+2021-08-11 08:28:59 INFO  Tradeviv_UserStory_07:169 - Click status
+2021-08-11 08:28:59 INFO  Tradeviv_UserStory_07:179 - select reject
+2021-08-11 08:28:59 INFO  Tradeviv_UserStory_07:184 - Click Submit button
+2021-08-11 08:29:00 INFO  Testcase:94 - Click vendors
+2021-08-11 08:29:05 INFO  EditVendor:100 - Click vendors
+2021-08-11 08:30:56 INFO  TradevivBase:45 - Launch the ChromeBrowser
+2021-08-11 08:30:58 INFO  TradevivBase:47 - Launch the url
+2021-08-11 08:31:06 INFO  Tradeviv_UserStory_07:75 - Click vendors
+2021-08-11 08:31:13 INFO  Tradeviv_UserStory_07:88 - Click approve vendor
+2021-08-11 08:31:18 INFO  Tradeviv_UserStory_07:128 - Search company Email
+2021-08-11 08:31:18 INFO  Tradeviv_UserStory_07:143 - Click underReview
+2021-08-11 08:31:18 INFO  Tradeviv_UserStory_07:156 - Click CompanyEdit
+2021-08-11 08:31:21 INFO  Tradeviv_UserStory_07:169 - Click status
+2021-08-11 08:31:21 INFO  Tradeviv_UserStory_07:174 - Select approved
+2021-08-11 08:31:21 INFO  Tradeviv_UserStory_07:184 - Click Submit button
+2021-08-11 08:31:22 INFO  Testcase:94 - Click vendors
+2021-08-11 08:31:22 INFO  Testcase:108 - Click manage vendor
+2021-08-11 08:31:29 INFO  Testcase:179 - Click action button
+2021-08-11 08:31:30 INFO  EditVendor:100 - Click vendors
+2021-08-11 08:31:31 INFO  EditVendor:114 - Click manage vendor
+2021-08-11 08:31:41 INFO  EditVendor:186 - Click action button
+2021-08-11 08:31:48 INFO  EditVendor:186 - Click action button
+2021-08-11 08:31:56 INFO  EditVendor:186 - Click action button
+2021-08-11 08:32:02 INFO  EditVendor:186 - Click action button
+2021-08-11 08:32:09 INFO  EditVendor:186 - Click action button
+2021-08-11 16:28:07 INFO  TradevivBase:45 - Launch the ChromeBrowser
+2021-08-11 16:28:09 INFO  TradevivBase:47 - Launch the url
+2021-08-11 16:28:17 INFO  Testcase:94 - Click vendors
+2021-08-11 16:28:24 INFO  Testcase:108 - Click manage vendor
+2021-08-11 16:28:42 INFO  Testcase:179 - Click action button
+2021-08-11 16:29:33 INFO  TradevivBase:45 - Launch the ChromeBrowser
+2021-08-11 16:29:35 INFO  TradevivBase:47 - Launch the url
+2021-08-11 16:29:42 INFO  Testcase:94 - Click vendors
+2021-08-11 16:29:49 INFO  Testcase:108 - Click manage vendor
+2021-08-11 16:30:55 INFO  TradevivBase:45 - Launch the ChromeBrowser
+2021-08-11 16:30:57 INFO  TradevivBase:47 - Launch the url
+2021-08-11 16:31:05 INFO  Testcase:94 - Click vendors
+2021-08-11 16:31:12 INFO  Testcase:108 - Click manage vendor
+2021-08-11 16:31:17 INFO  Testcase:179 - Click action button
+2021-08-11 17:19:51 INFO  TradevivBase:45 - Launch the ChromeBrowser
+2021-08-11 17:19:53 INFO  TradevivBase:47 - Launch the url
+2021-08-11 17:20:00 INFO  Tradeviv_UserStory_07:75 - Click vendors
+2021-08-11 17:20:12 INFO  Tradeviv_UserStory_07:88 - Click approve vendor
+2021-08-11 17:20:13 INFO  Testcase:94 - Click vendors
+2021-08-11 17:20:14 INFO  Testcase:108 - Click manage vendor
+2021-08-11 17:20:18 INFO  Testcase:181 - Click action button
+2021-08-11 17:20:19 INFO  EditVendor:100 - Click vendors
+2021-08-11 17:20:20 INFO  EditVendor:114 - Click manage vendor
+2021-08-11 17:20:29 INFO  EditVendor:186 - Click action button
+2021-08-11 17:20:36 INFO  EditVendor:186 - Click action button
+2021-08-11 17:20:42 INFO  EditVendor:186 - Click action button
+2021-08-11 17:20:49 INFO  EditVendor:186 - Click action button
+2021-08-11 17:20:56 INFO  EditVendor:186 - Click action button
+2021-08-11 17:22:58 INFO  TradevivBase:45 - Launch the ChromeBrowser
+2021-08-11 17:22:59 INFO  TradevivBase:47 - Launch the url
+2021-08-11 17:23:07 INFO  Tradeviv_UserStory_07:75 - Click vendors
+2021-08-11 17:23:15 INFO  Tradeviv_UserStory_07:88 - Click approve vendor
+2021-08-11 17:23:27 INFO  Testcase:94 - Click vendors
+2021-08-11 17:23:27 INFO  Testcase:108 - Click manage vendor
+2021-08-11 17:23:40 INFO  EditVendor:100 - Click vendors
+2021-08-11 17:27:30 INFO  TradevivBase:45 - Launch the ChromeBrowser
+2021-08-11 17:27:32 INFO  TradevivBase:47 - Launch the url
+2021-08-11 17:27:40 INFO  Tradeviv_UserStory_07:75 - Click vendors
+2021-08-11 17:27:47 INFO  Tradeviv_UserStory_07:88 - Click approve vendor
+2021-08-11 17:27:50 INFO  Tradeviv_UserStory_07:130 - Search company Email
+2021-08-11 17:27:50 INFO  Tradeviv_UserStory_07:145 - Click underReview
+2021-08-11 17:27:50 INFO  Tradeviv_UserStory_07:158 - Click CompanyEdit
+2021-08-11 17:27:53 INFO  Tradeviv_UserStory_07:171 - Click status
+2021-08-11 17:27:53 INFO  Tradeviv_UserStory_07:176 - Select approved
+2021-08-11 17:27:54 INFO  Tradeviv_UserStory_07:186 - Click Submit button
+2021-08-11 17:28:04 INFO  Testcase:94 - Click vendors
+2021-08-11 17:28:04 INFO  Testcase:108 - Click manage vendor
+2021-08-11 17:28:12 INFO  Testcase:181 - Click action button
+2021-08-11 17:28:13 INFO  EditVendor:100 - Click vendors
+2021-08-11 17:28:14 INFO  EditVendor:114 - Click manage vendor
+2021-08-11 17:28:23 INFO  Excell:187 - Click action button
+2021-08-11 17:28:30 INFO  Excell:187 - Click action button
+2021-08-11 17:28:36 INFO  Excell:187 - Click action button
+2021-08-11 17:28:43 INFO  Excell:187 - Click action button
+2021-08-11 17:28:50 INFO  Excell:187 - Click action button
+2021-08-11 17:31:00 INFO  TradevivBase:45 - Launch the ChromeBrowser
+2021-08-11 17:31:02 INFO  TradevivBase:47 - Launch the url
+2021-08-11 17:31:09 INFO  Tradeviv_UserStory_07:75 - Click vendors
+2021-08-11 17:31:17 INFO  Tradeviv_UserStory_07:88 - Click approve vendor
+2021-08-11 17:31:20 INFO  Tradeviv_UserStory_07:130 - Search company Email
+2021-08-11 17:31:20 INFO  Tradeviv_UserStory_07:145 - Click underReview
+2021-08-11 17:31:21 INFO  Tradeviv_UserStory_07:158 - Click CompanyEdit
+2021-08-11 17:31:23 INFO  Tradeviv_UserStory_07:171 - Click status
+2021-08-11 17:31:23 INFO  Tradeviv_UserStory_07:176 - Select approved
+2021-08-11 17:31:23 INFO  Tradeviv_UserStory_07:186 - Click Submit button
+2021-08-11 17:31:33 INFO  Testcase:94 - Click vendors
+2021-08-11 17:31:34 INFO  Testcase:108 - Click manage vendor
+2021-08-11 17:31:38 INFO  Testcase:181 - Click action button
+2021-08-11 17:31:39 INFO  EditVendor:100 - Click vendors
+2021-08-11 17:31:39 INFO  EditVendor:114 - Click manage vendor
+2021-08-11 17:31:48 INFO  Excell:187 - Click action button
+2021-08-11 17:31:54 INFO  Excell:187 - Click action button
+2021-08-11 17:32:01 INFO  Excell:187 - Click action button
+2021-08-11 17:32:08 INFO  Excell:187 - Click action button
+2021-08-11 17:32:14 INFO  Excell:187 - Click action button
+2021-08-11 19:06:14 INFO  TradevivBase:45 - Launch the ChromeBrowser
+2021-08-11 19:06:15 INFO  TradevivBase:47 - Launch the url
+2021-08-11 19:10:46 INFO  TradevivBase:45 - Launch the ChromeBrowser
+2021-08-11 19:10:48 INFO  TradevivBase:47 - Launch the url
+2021-08-11 19:14:16 INFO  TradevivBase:45 - Launch the ChromeBrowser
+2021-08-11 19:14:18 INFO  TradevivBase:47 - Launch the url
+2021-08-11 19:16:16 INFO  TradevivBase:45 - Launch the ChromeBrowser
+2021-08-11 19:16:18 INFO  TradevivBase:47 - Launch the url
+2021-08-11 19:17:49 INFO  TradevivBase:45 - Launch the ChromeBrowser
+2021-08-11 19:17:51 INFO  TradevivBase:47 - Launch the url
+2021-08-11 19:19:17 INFO  TradevivBase:45 - Launch the ChromeBrowser
+2021-08-11 19:19:19 INFO  TradevivBase:47 - Launch the url
+2021-08-11 19:23:17 INFO  TradevivBase:45 - Launch the ChromeBrowser
+2021-08-11 19:23:19 INFO  TradevivBase:47 - Launch the url
+2021-08-11 19:41:38 INFO  TradevivBase:45 - Launch the ChromeBrowser
+2021-08-11 19:41:41 INFO  TradevivBase:47 - Launch the url
+2021-08-11 19:51:17 INFO  TradevivBase:45 - Launch the ChromeBrowser
+2021-08-11 19:51:19 INFO  TradevivBase:47 - Launch the url
+2021-08-11 19:55:58 INFO  TradevivBase:45 - Launch the ChromeBrowser
+2021-08-11 19:56:01 INFO  TradevivBase:47 - Launch the url
+2021-08-11 20:17:54 INFO  TradevivBase:45 - Launch the ChromeBrowser
+2021-08-11 20:17:56 INFO  TradevivBase:47 - Launch the url
+2021-08-11 20:21:41 INFO  TradevivBase:45 - Launch the ChromeBrowser
+2021-08-11 20:21:43 INFO  TradevivBase:47 - Launch the url
+2021-08-11 20:23:29 INFO  TradevivBase:45 - Launch the ChromeBrowser
+2021-08-11 20:23:31 INFO  TradevivBase:47 - Launch the url
+2021-08-11 20:26:24 INFO  TradevivBase:45 - Launch the ChromeBrowser
+2021-08-11 20:26:26 INFO  TradevivBase:47 - Launch the url
+2021-08-12 09:20:32 INFO  TradevivBase:45 - Launch the ChromeBrowser
+2021-08-12 09:20:34 INFO  TradevivBase:47 - Launch the url
+2021-08-12 09:21:43 INFO  TradevivBase:45 - Launch the ChromeBrowser
+2021-08-12 09:21:45 INFO  TradevivBase:47 - Launch the url
+2021-08-12 09:23:10 INFO  TradevivBase:45 - Launch the ChromeBrowser
+2021-08-12 09:23:12 INFO  TradevivBase:47 - Launch the url
+2021-08-12 09:25:33 INFO  TradevivBase:45 - Launch the ChromeBrowser
+2021-08-12 09:25:35 INFO  TradevivBase:47 - Launch the url
+2021-08-12 09:28:54 INFO  TradevivBase:45 - Launch the ChromeBrowser
+2021-08-12 09:28:56 INFO  TradevivBase:47 - Launch the url
+2021-08-12 09:37:54 INFO  TradevivBase:45 - Launch the ChromeBrowser
+2021-08-12 09:37:56 INFO  TradevivBase:47 - Launch the url
+2021-08-12 09:38:04 INFO  Tradeviv_UserStory_07:77 - Click vendors
+2021-08-12 09:38:17 INFO  Tradeviv_UserStory_07:90 - Click approve vendor
+2021-08-12 09:38:20 INFO  Tradeviv_UserStory_07:133 - Search company Email
+2021-08-12 09:38:20 INFO  Tradeviv_UserStory_07:148 - Click underReview
+2021-08-12 09:38:20 INFO  Tradeviv_UserStory_07:161 - Click CompanyEdit
+2021-08-12 09:38:23 INFO  Tradeviv_UserStory_07:174 - Click status
+2021-08-12 09:38:23 INFO  Tradeviv_UserStory_07:179 - Select approved
+2021-08-12 09:38:23 INFO  Tradeviv_UserStory_07:189 - Click Submit button
+2021-08-12 09:38:25 INFO  Testcase:94 - Click vendors
+2021-08-12 09:38:25 INFO  Testcase:108 - Click manage vendor
+2021-08-12 09:38:29 INFO  Testcase:181 - Click action button
+2021-08-12 09:38:30 INFO  EditVendor:100 - Click vendors
+2021-08-12 09:38:31 INFO  EditVendor:114 - Click manage vendor
+2021-08-12 09:38:39 INFO  Excell:187 - Click action button
+2021-08-12 09:38:48 INFO  Excell:187 - Click action button
+2021-08-12 09:38:55 INFO  Excell:187 - Click action button
+2021-08-12 09:39:02 INFO  Excell:187 - Click action button
+2021-08-12 09:39:08 INFO  Excell:187 - Click action button
+2021-08-12 09:43:21 INFO  TradevivBase:45 - Launch the ChromeBrowser
+2021-08-12 09:43:23 INFO  TradevivBase:47 - Launch the url
+2021-08-12 09:43:30 INFO  Tradeviv_UserStory_07:77 - Click vendors
+2021-08-12 09:43:37 INFO  Tradeviv_UserStory_07:90 - Click approve vendor
+2021-08-12 09:43:40 INFO  Tradeviv_UserStory_07:133 - Search company Email
+2021-08-12 09:43:41 INFO  Tradeviv_UserStory_07:148 - Click underReview
+2021-08-12 09:43:41 INFO  Tradeviv_UserStory_07:161 - Click CompanyEdit
+2021-08-12 09:43:43 INFO  Tradeviv_UserStory_07:174 - Click status
+2021-08-12 09:43:43 INFO  Tradeviv_UserStory_07:179 - Select approved
+2021-08-12 09:43:43 INFO  Tradeviv_UserStory_07:189 - Click Submit button
+2021-08-12 09:43:44 INFO  Testcase:95 - Click vendors
+2021-08-12 09:43:44 INFO  Testcase:109 - Click manage vendor
+2021-08-12 09:43:48 INFO  Testcase:182 - Click action button
+2021-08-12 09:43:49 INFO  EditVendor:101 - Click vendors
+2021-08-12 09:43:50 INFO  EditVendor:115 - Click manage vendor
+2021-08-12 09:44:10 INFO  Excell:190 - Click action button
+2021-08-12 09:44:16 INFO  Excell:190 - Click action button
+2021-08-12 09:44:22 INFO  Excell:190 - Click action button
+2021-08-12 09:44:29 INFO  Excell:190 - Click action button
+2021-08-12 09:44:36 INFO  Excell:190 - Click action button

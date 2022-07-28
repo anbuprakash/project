@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-08-12T09:43:21 IST" name="Default suite" finished-at="2021-08-12T09:44:39 IST" duration-ms="78362">
+    <groups>
+    </groups>
+    <test started-at="2021-08-12T09:43:21 IST" name="Default test" finished-at="2021-08-12T09:44:39 IST" duration-ms="78362">
+      <class name="com.tradeviv.build.userStorySeven">
+        <test-method signature="baseTest()[pri:0, instance:com.tradeviv.build.userStorySeven@65466a6a]" started-at="2021-08-12T09:43:21 IST" name="baseTest" finished-at="2021-08-12T09:43:30 IST" duration-ms="9311" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- baseTest -->
+        <test-method signature="userStory_07()[pri:0, instance:com.tradeviv.build.userStorySeven@65466a6a]" started-at="2021-08-12T09:43:30 IST" name="userStory_07" finished-at="2021-08-12T09:43:44 IST" duration-ms="14068" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userStory_07 -->
+        <test-method signature="userStory_08()[pri:0, instance:com.tradeviv.build.userStorySeven@65466a6a]" started-at="2021-08-12T09:43:44 IST" name="userStory_08" finished-at="2021-08-12T09:43:49 IST" duration-ms="5377" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userStory_08 -->
+        <test-method signature="userStory_09()[pri:0, instance:com.tradeviv.build.userStorySeven@65466a6a]" started-at="2021-08-12T09:43:49 IST" name="userStory_09" finished-at="2021-08-12T09:44:39 IST" duration-ms="49548" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userStory_09 -->
+      </class> <!-- com.tradeviv.build.userStorySeven -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
