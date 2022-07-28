@@ -1,0 +1,47 @@
+2021-07-13 20:48:07 INFO  LoginBase:52 - Launch the ChromeBrowser
+2021-07-13 20:48:09 INFO  LoginBase:54 - Launch the url
+2021-07-13 20:48:21 INFO  LoginPage:96 - Click Account & Lists
+2021-07-13 20:48:21 INFO  LoginPage:99 - Click Sign in Button
+2021-07-13 20:48:21 INFO  LoginPage:102 - Click Vendor Login
+2021-07-13 20:48:21 INFO  LoginPage:115 - Get Data In Excel
+2021-07-13 20:48:25 INFO  LoginPage:126 - Write User Mail id
+2021-07-13 20:48:25 INFO  LoginPage:130 - Write Password
+2021-07-13 20:48:25 INFO  LoginPage:134 - Click Login Button
+2021-07-13 20:48:25 INFO  LoginPage:144 - Take Screenshot
+2021-07-13 20:48:25 INFO  LoginPage:150 - Click Logout button
+2021-07-13 20:49:59 INFO  LoginBase:52 - Launch the ChromeBrowser
+2021-07-13 20:50:01 INFO  LoginBase:54 - Launch the url
+2021-07-13 20:50:13 INFO  LoginPage:96 - Click Account & Lists
+2021-07-13 20:50:13 INFO  LoginPage:99 - Click Sign in Button
+2021-07-13 20:50:13 INFO  LoginPage:102 - Click Vendor Login
+2021-07-13 20:50:14 INFO  LoginPage:115 - Get Data In Excel
+2021-07-13 20:50:14 INFO  LoginPage:126 - Write User Mail id
+2021-07-13 20:50:15 INFO  LoginPage:130 - Write Password
+2021-07-13 20:50:15 INFO  LoginPage:134 - Click Login Button
+2021-07-13 20:50:15 INFO  LoginPage:144 - Take Screenshot
+2021-07-13 20:50:15 INFO  LoginPage:150 - Click Logout button
+2021-07-13 20:54:33 INFO  LoginBase:52 - Launch the ChromeBrowser
+2021-07-13 20:54:35 INFO  LoginBase:54 - Launch the url
+2021-07-13 20:54:45 INFO  LoginPage:96 - Click Account & Lists
+2021-07-13 20:54:46 INFO  LoginPage:99 - Click Sign in Button
+2021-07-13 20:54:46 INFO  LoginPage:102 - Click Vendor Login
+2021-07-13 20:54:46 INFO  LoginPage:115 - Get Data In Excel
+2021-07-13 20:54:47 INFO  LoginPage:126 - Write User Mail id
+2021-07-13 20:54:47 INFO  LoginPage:130 - Write Password
+2021-07-13 20:54:47 INFO  LoginPage:134 - Click Login Button
+2021-07-13 20:54:47 INFO  LoginPage:144 - Take Screenshot
+2021-07-13 20:54:48 INFO  LoginPage:150 - Click Logout button
+2021-07-13 21:28:43 INFO  LoginBase:52 - Launch the ChromeBrowser
+2021-07-13 21:28:45 INFO  LoginBase:54 - Launch the url
+2021-07-13 21:28:57 INFO  LoginPage:96 - Click Account & Lists
+2021-07-13 21:28:57 INFO  LoginPage:99 - Click Sign in Button
+2021-07-13 21:28:58 INFO  LoginPage:102 - Click Vendor Login
+2021-07-13 21:28:58 INFO  LoginPage:115 - Get Data In Excel
+2021-07-13 21:28:58 INFO  LoginPage:126 - Write User Mail id
+2021-07-13 21:28:59 INFO  LoginPage:130 - Write Password
+2021-07-13 21:28:59 INFO  LoginPage:134 - Click Login Button
+2021-07-13 21:28:59 INFO  LoginPage:144 - Take Screenshot
+2021-07-13 21:28:59 INFO  LoginPage:150 - Click Logout button
+2021-10-28 10:32:57 INFO  LoginBase:52 - Launch the ChromeBrowser
+2021-11-03 17:19:31 INFO  LoginBase:52 - Launch the ChromeBrowser
+2021-11-03 17:23:58 INFO  LoginBase:52 - Launch the ChromeBrowser
