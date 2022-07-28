@@ -1,0 +1,74 @@
+package Employeelist;
+
+import java.util.ArrayList;
+import java.util.List;
+
+
+
+public class Employee {
+
+	
+		// TODO Auto-generated method stub
+		public int eid;
+		public String ename;
+		public Department department;
+		public  int countValue=0;
+		
+		public Employee(int eid, String ename, Department department) {
+			super();
+		    this.eid = eid;
+		    this.ename = ename;
+		    this.department=department;
+		    countValue++;
+		}
+
+	
+	     	//public int getEid() {
+		   // return eid;
+		   // }
+		 
+		    //public String getEname() {
+		    //return ename;
+		    //}
+		 
+		  //  public Department getDepartment() {
+		    	
+		    	
+		    //	return department;
+		   
+		    //}
+
+	
+}
+class Department{
+	int did;
+	String dname;
+	String designation;
+	//int countValue =0;
+	public Department(int did, String dname, String designation) {
+		super();
+    this.did = did;
+    this.dname = dname;
+    this.designation= designation;  
+    //countValue++;
+    }
+}
+class EmployeeApp{
+	public static void main(String[] args) {
+		ArrayList<Employee> list = new ArrayList<Employee>();
+		 
+	     list.add(new Employee(1, "Jansi", new Department(20,"Java","Programmer")));
+	     list.add(new Employee(2, "Suganya", new Department(21,"Dotnet","Programmer")));
+	     list.add(new Employee(3, "Lavanya", new Department(22,"Testing","Tester")));
+	     list.add(new Employee(4, "Jamuna", new Department(23,"Networking","System Engineer")));
+	     list.add(new Employee(5, "Raji", new Department(24,"Fashion Technology","Beuatician")));
+	     list.add(new Employee(6, "Kirauba", new Department(25,"EEE","Electrician")));
+	     list.add(new Employee(7, "Veni", new Department(26,"ECE","Service Engineer")));
+	 
+	        for (Employee s : list) 
+	        {
+	            System.out.print("Employee Details :");
+	            System.out.println(s.eid+" "+s.ename+" " + s.department.did+" " + s.department.dname+" " + s.department.designation);
+	        }
+	}
+}
